@@ -1,0 +1,2 @@
+# typescriptPlaypen
+Scratchpad for typescript
